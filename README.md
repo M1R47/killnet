@@ -1,6 +1,10 @@
 # killnet
 killnet es una herramienta echo en bash y Python para hacer spam a numerosos teléfono y números de WhatsApp
 ##
+<body>
+<img src="module/img.jpg"/>
+</body>
+##
 instalación
 ##
 apt update -y
