@@ -1,0 +1,2 @@
+primt("hola")
+primt("xd")
